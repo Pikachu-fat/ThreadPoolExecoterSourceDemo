@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskExecuter</string>
+    <string name="execute">测试execute</string>
+</resources>
